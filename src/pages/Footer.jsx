@@ -28,33 +28,6 @@ const Footer = () => {
           >
             <Linkedin size={24} />
           </a>
-          <a
-            href="https://twitter.com/yourusername"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-[#7AE2CF] transition"
-            aria-label="Twitter"
-          >
-            <Twitter size={24} />
-          </a>
-          <a
-            href="https://facebook.com/yourusername"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-[#7AE2CF] transition"
-            aria-label="Facebook"
-          >
-            <Facebook size={24} />
-          </a>
-          <a
-            href="https://instagram.com/yourusername"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-[#7AE2CF] transition"
-            aria-label="Instagram"
-          >
-            <Instagram size={24} />
-          </a>
         </div>
       </div>
     </footer>

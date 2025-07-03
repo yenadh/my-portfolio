@@ -39,7 +39,7 @@ const Contact = () => {
         </a>
 
         <a
-          href="mailto:your.email@example.com"
+          href="mailto:yenathweerasooriya@gmail.com"
           className="flex items-center gap-4 bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 cursor-pointer hover:shadow-2xl transition"
         >
           <Mail size={28} className="text-[#7AE2CF]" />
